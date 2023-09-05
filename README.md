@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-gostack-template-conceitos-nodejs
+gostack-nodejs-concepts
 
 ## 📝 Licença
 
